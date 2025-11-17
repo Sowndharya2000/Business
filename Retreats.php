@@ -1,238 +1,108 @@
 <?php include 'header.php'; ?>
-<section class="hero-wrap hero-wrap-2" style="background-image: url('images/bg_2.jpg');">
-		<div class="overlay"></div>
-		<div class="container">
-			<div class="row no-gutters slider-text align-items-end">
-				<div class="col-md-9 ftco-animate pb-5">
-					<p class="breadcrumbs"><span class="mr-2"><a href="index">Home <i class="fa fa-chevron-right"></i></a></span> <span>Speaker <i class="fa fa-chevron-right"></i></span></p>
-					<h1 class="mb-0 bread">Our Speaker</h1>
-				</div>
-			</div>
-		</div>
-	</section>
+ 
+<section class="retreat-hero">
+    <div class="container">
+        <h1>Reset Your Mind. Realign Your Goals. Rebuild Your Business.</h1>
+        <p>Our retreats are deep, immersive programs designed for individuals who want to pause, reflect, and transform their inner and outer life.</p>
+    </div>
+</section>
 
-	<section class="ftco-section ftco-team">
-		<div class="container">
-			<div class="row justify-content-center">
-				<div class="col-md-3 ftco-animate d-flex">
-					<div class="staff">
-						<div class="img-wrap d-flex align-items-stretch">
-							<div class="img d-flex align-items-center" style="background-image: url(images/staff-1.jpg);">
-								<div class="text w-100 pt-3 px-3 pb-4 text-center">
-									<h3>Lloyd Wilson</h3>
-									<span class="position">Web Developer</span>
-									<div class="faded">
-										<ul class="ftco-social text-center">
-											<li class="ftco-animate"><a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-twitter"></span></a></li>
-											<li class="ftco-animate"><a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-facebook"></span></a></li>
-											<li class="ftco-animate"><a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-google"></span></a></li>
-											<li class="ftco-animate"><a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-instagram"></span></a></li>
-										</ul>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-				<div class="col-md-3 ftco-animate d-flex">
-					<div class="staff">
-						<div class="img-wrap d-flex align-items-stretch">
-							<div class="img d-flex align-items-center" style="background-image: url(images/staff-2.jpg);">
-								<div class="text w-100 pt-3 px-3 pb-4 text-center">
-									<h3>Lloyd Wilson</h3>
-									<span class="position">Web Designer</span>
-									<div class="faded">
-										<ul class="ftco-social text-center">
-											<li class="ftco-animate"><a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-twitter"></span></a></li>
-											<li class="ftco-animate"><a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-facebook"></span></a></li>
-											<li class="ftco-animate"><a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-google"></span></a></li>
-											<li class="ftco-animate"><a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-instagram"></span></a></li>
-										</ul>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-				<div class="col-md-3 ftco-animate d-flex">
-					<div class="staff">
-						<div class="img-wrap d-flex align-items-stretch">
-							<div class="img d-flex align-items-center" style="background-image: url(images/staff-3.jpg);">
-								<div class="text w-100 pt-3 px-3 pb-4 text-center">
-									<h3>Liam Neil</h3>
-									<span class="position">Graphic Designer</span>
-									<div class="faded">
-										<ul class="ftco-social text-center">
-											<li class="ftco-animate"><a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-twitter"></span></a></li>
-											<li class="ftco-animate"><a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-facebook"></span></a></li>
-											<li class="ftco-animate"><a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-google"></span></a></li>
-											<li class="ftco-animate"><a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-instagram"></span></a></li>
-										</ul>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-				<div class="col-md-3 ftco-animate d-flex">
-					<div class="staff">
-						<div class="img-wrap d-flex align-items-stretch">
-							<div class="img d-flex align-items-center" style="background-image: url(images/staff-4.jpg);">
-								<div class="text w-100 pt-3 px-3 pb-4 text-center">
-									<h3>Alen Broke</h3>
-									<span class="position">System Analytic</span>
-									<div class="faded">
-										<ul class="ftco-social text-center">
-											<li class="ftco-animate"><a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-twitter"></span></a></li>
-											<li class="ftco-animate"><a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-facebook"></span></a></li>
-											<li class="ftco-animate"><a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-google"></span></a></li>
-											<li class="ftco-animate"><a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-instagram"></span></a></li>
-										</ul>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-				<div class="col-md-3 ftco-animate d-flex">
-					<div class="staff">
-						<div class="img-wrap d-flex align-items-stretch">
-							<div class="img d-flex align-items-center" style="background-image: url(images/staff-5.jpg);">
-								<div class="text w-100 pt-3 px-3 pb-4 text-center">
-									<h3>John Hayes</h3>
-									<span class="position">Marketing</span>
-									<div class="faded">
-										<ul class="ftco-social text-center">
-											<li class="ftco-animate"><a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-twitter"></span></a></li>
-											<li class="ftco-animate"><a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-facebook"></span></a></li>
-											<li class="ftco-animate"><a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-google"></span></a></li>
-											<li class="ftco-animate"><a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-instagram"></span></a></li>
-										</ul>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-				<div class="col-md-3 ftco-animate d-flex">
-					<div class="staff">
-						<div class="img-wrap d-flex align-items-stretch">
-							<div class="img d-flex align-items-center" style="background-image: url(images/staff-6.jpg);">
-								<div class="text w-100 pt-3 px-3 pb-4 text-center">
-									<h3>John Hayes</h3>
-									<span class="position">Marketing</span>
-									<div class="faded">
-										<ul class="ftco-social text-center">
-											<li class="ftco-animate"><a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-twitter"></span></a></li>
-											<li class="ftco-animate"><a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-facebook"></span></a></li>
-											<li class="ftco-animate"><a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-google"></span></a></li>
-											<li class="ftco-animate"><a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-instagram"></span></a></li>
-										</ul>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-				<div class="col-md-3 ftco-animate d-flex">
-					<div class="staff">
-						<div class="img-wrap d-flex align-items-stretch">
-							<div class="img d-flex align-items-center" style="background-image: url(images/staff-7.jpg);">
-								<div class="text w-100 pt-3 px-3 pb-4 text-center">
-									<h3>John Hayes</h3>
-									<span class="position">Marketing</span>
-									<div class="faded">
-										<ul class="ftco-social text-center">
-											<li class="ftco-animate"><a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-twitter"></span></a></li>
-											<li class="ftco-animate"><a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-facebook"></span></a></li>
-											<li class="ftco-animate"><a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-google"></span></a></li>
-											<li class="ftco-animate"><a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-instagram"></span></a></li>
-										</ul>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-				<div class="col-md-3 ftco-animate d-flex">
-					<div class="staff">
-						<div class="img-wrap d-flex align-items-stretch">
-							<div class="img d-flex align-items-center" style="background-image: url(images/staff-8.jpg);">
-								<div class="text w-100 pt-3 px-3 pb-4 text-center">
-									<h3>John Hayes</h3>
-									<span class="position">Marketing</span>
-									<div class="faded">
-										<ul class="ftco-social text-center">
-											<li class="ftco-animate"><a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-twitter"></span></a></li>
-											<li class="ftco-animate"><a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-facebook"></span></a></li>
-											<li class="ftco-animate"><a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-google"></span></a></li>
-											<li class="ftco-animate"><a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-instagram"></span></a></li>
-										</ul>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
+ <!-- Retreat Benefits -->
+<section class="retreat-benefits">
+    <div class="container">
+        <div class="items">
+            <div class="items-head">
+                <p>Retreat Benefits</p>
+                <hr>
+            </div>
+            <div class="items-body">
+                <div class="items-body-content">
+                    <span>Release past emotional blocks</span>
+                    <i class="fa fa-angle-right"></i>
+                </div>
+                <div class="items-body-content">
+                    <span>Remove fear, overthinking & negativity</span>
+                    <i class="fa fa-angle-right"></i>
+                </div>
+                <div class="items-body-content">
+                    <span>Learn powerful affirmations</span>
+                    <i class="fa fa-angle-right"></i>
+                </div>
+                <div class="items-body-content">
+                    <span>Build clarity for business</span>
+                    <i class="fa fa-angle-right"></i>
+                </div>
+                <div class="items-body-content">
+                    <span>Gain momentum & motivation</span>
+                    <i class="fa fa-angle-right"></i>
+                </div>
+                <div class="items-body-content">
+                    <span>Reset your mindset to success</span>
+                    <i class="fa fa-angle-right"></i>
+                </div>
+                <div class="items-body-content">
+                    <span>Connect with like-minded people</span>
+                    <i class="fa fa-angle-right"></i>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
 
-			</div>
-		</div>
-	</section>
+<!-- Retreat Experience -->
+<section class="retreat-experience">
+    <div class="retreat-experience__wrapper">
+        <div class="retreat-experience__header">
+            <h2>Inside the Retreat</h2>
+        </div>
+        
+        <div class="retreat-experience__list">
+            <div class="retreat-experience__item">
+                <h5>Guided affirmations</h5>
+                <p>Experience deep inner calm with guided affirmation sessions designed to reset your mindset.</p>
+            </div>
+            <div class="retreat-experience__item">
+                <h5>Breakthrough mindset exercises</h5>
+                <p>Practical exercises to overcome limiting beliefs and foster mental clarity.</p>
+            </div>
+            <div class="retreat-experience__item">
+                <h5>Vision & goal setting</h5>
+                <p>Define your personal and business goals with structured planning sessions.</p>
+            </div>
+            <div class="retreat-experience__item">
+                <h5>Business direction planning</h5>
+                <p>Strategic guidance to align your business with your vision and priorities.</p>
+            </div>
+            <div class="retreat-experience__item">
+                <h5>Energy healing & grounding</h5>
+                <p>Reconnect with your energy and achieve balance through guided practices.</p>
+            </div>
+            <div class="retreat-experience__item">
+                <h5>Mentor-led coaching circles</h5>
+                <p>Learn and grow from peer discussions and mentor-led coaching sessions.</p>
+            </div>
+        </div>
+    </div>
+</section>
 
-	<section class="ftco-intro img" style="background-image: url(images/bg_3.jpg);">
-		<div class="container">
-			<div class="row justify-content-center">
-				<div class="col-md-12 heading-section heading-section-white text-center ftco-animate">
-					<h2 class="mb-4">Book Your Tickets Now</h2>
-				</div>
-			</div>
-			<div class="row justify-content-center">
-				<div class="col-md-12">
-					<form action="#" class="registry-form ftco-animate">
-						<div class="row">
-							<div class="col-md">
-								<div class="form-group">
-									<input type="text" class="form-control" placeholder="First Name">
-								</div>
-							</div>
-							<div class="col-md">
-								<div class="form-group">
-									<input type="text" class="form-control" placeholder="Last Name">
-								</div>
-							</div>
-							<div class="col-md">
-								<div class="form-group">
-									<input type="text" class="form-control" placeholder="Phone">
-								</div>
-							</div>
-							<div class="col-md">
-								<div class="form-group">
-									<div class="form-field">
-										<div class="select-wrap">
-											<div class="icon"><span class="fa fa-chevron-down"></span></div>
-											<select name="" id="" class="form-control">
-												<option value="">Select Your Price</option>
-												<option value="">$10</option>
-												<option value="">$20</option>
-												<option value="">$25</option>
-												<option value="">$30</option>
-												<option value="">$50</option>
-												<option value="">$75</option>
-												<option value="">$100</option>
-											</select>
-										</div>
-									</div>
-								</div>
-							</div>
-							<div class="col-md">
-								<div class="form-group">
-									<input type="submit" value="Register Now" class="btn btn-primary py-3 px-4">
-								</div>
-							</div>
-						</div>
-					</form>
-				</div>
-			</div>
-		</div>
-	</section>
-       <?php include 'footer.php'; ?>
+<section class="retreat-types">
+  <div class="container">
+    <h2>Types of Retreats</h2>
+    <div class="retreat-types__cards">
+      <div class="retreat-card">
+        <h3>Business Breakthrough Retreat</h3>
+      </div>
+      <div class="retreat-card">
+        <h3>Entrepreneur Confidence Reset Camp</h3>
+      </div>
+      <div class="retreat-card">
+        <h3>21-Day Inner Transformation Journey</h3>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+
+ 
+ <?php include 'footer.php'; ?>
